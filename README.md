@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joti!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Python+Developer;Assembly+Enthusiast;Unity+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Python+Developer;Assembly+Enthusiast;Systems+Programming" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joti17&layout=compact&theme=tokyonight" />
 </p>
 
-## Languages
+## Languages & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,4 +25,4 @@
 
 ---
 
-Currently working on my own projects.
+Interested in low-level programming, game development, and building software from scratch.
